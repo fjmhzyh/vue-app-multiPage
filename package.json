@@ -20,7 +20,7 @@
     "@babel/runtime": "^7.0.0",
     "autodll-webpack-plugin": "^0.4.2",
     "babel-loader": "^8.0.0",
-    "browserslist": "^4.7.0",
+    "browserslist": "^4.16.5",
     "caniuse-lite": "^1.0.30000989",
     "chalk": "^2.4.2",
     "clean-webpack-plugin": "^1.0.0",
